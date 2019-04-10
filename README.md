@@ -1,2 +1,2 @@
 # spotify-annoy
-Research Paper on Spotify's ANNOY algorithm 
+Research Paper on <a href="https://github.com/spotify/annoy">Spotify's ANNOY algorithm</a> 
